@@ -57,10 +57,10 @@ If doing LDPC and Polar codes, try also changing parameters: code_n, code_k
 
 This project builds on the following works:
 
-    * Error-Correcting Code Transformer (ECCT) by Y. Leng, D. Burshtein, M. Medard (2022)
-    Paper: https://arxiv.org/abs/2203.14966
-    Code: https://github.com/yoniLc/ECCT
+Error-Correcting Code Transformer (ECCT) by Y. Leng, D. Burshtein, M. Medard (2022)  
+Paper: https://arxiv.org/abs/2203.14966  
+Code: https://github.com/yoniLc/ECCT
 
-    * Boosting Neural Min-Sum Decoders by H. Gao, J. Wang, X. Ma, X. You (2025)
-    Paper: https://arxiv.org/abs/2405.13413
-    Code: https://github.com/ghy1228/LDPC_Error_Floor
+Boosting Neural Min-Sum Decoders by H. Gao, J. Wang, X. Ma, X. You (2025)  
+Paper: https://arxiv.org/abs/2405.13413  
+Code: https://github.com/ghy1228/LDPC_Error_Floor
