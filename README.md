@@ -5,13 +5,13 @@ Contains the Google Colab notebooks used as the experimental pipeline for the pr
 ![alt text](https://github.com/Preenon/Boosting-ECCT/blob/main/Results/plots/POLAR_summary_BER.png)
 
 ## Contents
-boosted_ECCT_training_notebook.ipynb
+boosted_ECCT_training_notebook.ipynb:
 Trains baseline ECCT models using the official ECCT implementation.
 
-boosted_ECCT_boosting_notebook.ipynb
+boosted_ECCT_boosting_notebook.ipynb:
 Loads trained models, applies selected boosting methodologies, and performs BER evaluations.
 
-results/
+results/:
 Contains sample boosted models and BER plots from the paper.
 
 ## Execution Environment
